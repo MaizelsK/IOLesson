@@ -11,8 +11,8 @@ namespace IOLesson
     {
         static void Main(string[] args)
         {
-            var drives = DriveInfo.GetDrives();
-
+            //Classwork
+            /*var drives = DriveInfo.GetDrives();
 
             Directory.CreateDirectory(@"C:\name_off_folder");
             if (Directory.Exists(@"C:\name_off_folder"))
@@ -29,7 +29,15 @@ namespace IOLesson
                     Console.WriteLine(dir);
                 }
                 Console.ReadLine();
-            }
+            }*/
+
+            //Practice
+
+            //Practice.Task2();
+
+            //Homework
+
+            Homework.Task2();
         }
 
         static void FileIO()
